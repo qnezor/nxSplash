@@ -3,7 +3,7 @@ Custom Splash Screens for Kefir and Atmosphere
 
 ---
 ### Latest Splash Screens
-[Kefir 739 (barcodes)](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/739/with%20barcodes/bootlogo_kefir.bmp) | [Kefir 739](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/739/without%20barcodes/bootlogo_kefir.bmp) | [Atmosphere 1.7.0](https://raw.githubusercontent.com/qnezor/nxSplash/main/atmosphere/1.7.0/splash.png)
+[Kefir 740](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/740/bootlogo_kefir.bmp) | [Atmosphere 1.7.0](https://raw.githubusercontent.com/qnezor/nxSplash/main/atmosphere/1.7.0/splash.png)
 
 #### Universal Splash Screens
 Atmosphere: [as 1.7.0](https://raw.githubusercontent.com/qnezor/nxSplash/main/atmosphere/universal/170.png)
@@ -19,11 +19,11 @@ If you want to change Atmosphere boot logo - [use this instruction](https://4pda
 
 ---
 ### Archive
-Kefir: [734](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/734/bootlogo_kefir.bmp), [731](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/731/bootlogo_kefir.bmp), [725](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/725/bootlogo_kefir.bmp), [714](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/714/bootlogo_kefir.bmp)
+Kefir: [739](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/739/bootlogo_kefir.bmp), [734](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/734/bootlogo_kefir.bmp), [731](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/731/bootlogo_kefir.bmp), [725](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/725/bootlogo_kefir.bmp), [714](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/714/bootlogo_kefir.bmp)
 
 Atmosphere: ---
 
 ---
 ### Used resources
-Fonts: [DotGhotic16](https://fonts.google.com/specimen/DotGothic16), [JetBrains Mono](https://fonts.google.com/specimen/JetBrains+Mono)
+Fonts: [Boblox Bus](https://fontstruct.com/fontstructions/show/2319488/boblox-bus-typeface), [DotGhotic16](https://fonts.google.com/specimen/DotGothic16), [JetBrains Mono](https://fonts.google.com/specimen/JetBrains+Mono)
 

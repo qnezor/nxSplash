@@ -3,9 +3,10 @@ Custom Splash Screens for Kefir and Atmosphere
 
 ---
 ### Latest Splash Screens
-[Kefir 740](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/740/bootlogo_kefir.bmp) | [Atmosphere 1.7.0](https://raw.githubusercontent.com/qnezor/nxSplash/main/atmosphere/1.7.0/splash.png)
+[Kefir 741](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/740/bootlogo_kefir.bmp) | [Atmosphere 1.7.0](https://raw.githubusercontent.com/qnezor/nxSplash/main/atmosphere/1.7.0/splash.png)
 
 #### Universal Splash Screens
+Kefir: [as 741](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/universal/741.bmp)
 Atmosphere: [as 1.7.0](https://raw.githubusercontent.com/qnezor/nxSplash/main/atmosphere/universal/170.png)
 
 ---

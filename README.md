@@ -13,6 +13,9 @@ Atmosphere: [as 1.7.0](https://raw.githubusercontent.com/qnezor/nxSplash/main/at
 ### How to change Kefir splash screen
 Download the splash you want and place it in the `bootloader` folder, agreeing to replace the file
 
+### Before installing the universal Kefir splash screens
+Change the name of the downloaded splash screen to `bootlogo_kefir.bmp`
+
 ---
 ### How to change Atmosphere splash screen
 As far as I know, to change Atmosphere Splash Screen you need to rebuild the whole build.

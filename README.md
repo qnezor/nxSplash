@@ -3,7 +3,7 @@ Custom Splash Screens for Kefir and Atmosphere
 
 ---
 ### Latest Splash Screens
-[Kefir 741](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/741/bootlogo_kefir.bmp) | [Atmosphere 1.7.0](https://raw.githubusercontent.com/qnezor/nxSplash/main/atmosphere/1.7.0/splash.png)
+[Kefir 743](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/743/bootlogo_kefir.bmp) | [Atmosphere 1.7.0](https://raw.githubusercontent.com/qnezor/nxSplash/main/atmosphere/1.7.0/splash.png)
 
 #### Universal Splash Screens
 Kefir: [as 741](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/universal/741.bmp)
@@ -24,7 +24,7 @@ If you want to change Atmosphere boot logo - [use this instruction](https://4pda
 
 ---
 ### Archive
-Kefir: [739](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/739/bootlogo_kefir.bmp), [734](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/734/bootlogo_kefir.bmp), [731](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/731/bootlogo_kefir.bmp), [725](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/725/bootlogo_kefir.bmp), [714](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/714/bootlogo_kefir.bmp)
+Kefir: [741](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/741/bootlogo_kefir.bmp), [739](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/739/bootlogo_kefir.bmp), [734](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/734/bootlogo_kefir.bmp), [731](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/731/bootlogo_kefir.bmp), [725](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/725/bootlogo_kefir.bmp), [714](https://raw.githubusercontent.com/qnezor/nxSplash/main/kefir/714/bootlogo_kefir.bmp)
 
 Atmosphere: ---
 
